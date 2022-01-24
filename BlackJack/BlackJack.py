@@ -430,6 +430,7 @@ def Tie():                                                                      
 #-------------------------------------------------------------------------------------------------------------------------------#------------------------------------------------------------------#
                                                                                                                                 #
 def Hit():                                                                                                                      #Just defines the function "Hit"
+  time.sleep(0.25)                                                                                                              #sleep function to prevent fast computers from outputting so many cards.
   PlayersHand.append(DrawCard(PlayingDeck))                                                                                     #Draws another card from the deck and gives it to the player
   PlayersScore = CalculateScore(PlayersHand)                                                                                    #Calculates the new hand value of the player
   GameScreen = pygame.display.set_mode((DisplayWidth, DisplayHeight), pygame.NOFRAME)                                           #Recreates a new display as functions don't work as well with 1 screen
