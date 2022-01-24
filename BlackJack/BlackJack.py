@@ -169,6 +169,8 @@ def RoundButton(GameScreen, x1, y1, radius, height, width, OriginalColour, NewCo
     GameScreen.blit(TextFont.render(Text, Antialias, NewTextColour), [Textx, Texty])                                            #This renders the text information which is given in the second half of the function
     if TrueFalse == True:                                                                                                       #This is done to tell the code to do a function or not if the rectangle is pressed
       if Clicked[0] == 1 and Occurence != None:                                                                                 #This is done to tell the code to do a function or not if the rectangle is pressed
+        time.sleep(0.25)                                                                                                              #sleep function to prevent fast computers from outputting so many cards.
+
         pygame.draw.rect(GameScreen, Black, pygame.Rect((0, 0), (800, 600)))                                                    #This is done to tell the code to do a function or not if the rectangle is pressed
         Occurence()                                                                                                             #This is done to tell the code to do a function or not if the rectangle is pressed
     else:                                                                                                                       #Basic Else statement
