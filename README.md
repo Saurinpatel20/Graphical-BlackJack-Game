@@ -5,9 +5,6 @@ This is a python project for the development of a minimalist graphical BlackJack
 
 ## Table of Contents
 - [Dependencies](#dependencies)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Features](#features)
 - [Contact](#contact)
 
 ## Languages
@@ -17,88 +14,6 @@ This is a python project for the development of a minimalist graphical BlackJack
 ## Dependencies
 - [Python 3.0 or later](https://www.python.org/downloads/) 
 - [Pygame 1.9.6](https://pypi.org/project/pygame/1.9.6/)
-
-
-## Project Structure
-  ```sh
-  ├── app.py
-  ├── BlackJack
-  │   ├── BlackJack.py
-  │   ├── Azonix.ttf
-  │   ├── Music.mp3
-  │   ├── BlackJack Icon.png
-  │   ├── BulkResizePhotos.html
-  │   ├── 10Clubs.jpg
-  │   ├── 10Diamonds.jpg
-  │   ├── 10Hearts.jpg
-  │   ├── 10Spades.jpg
-  │   ├── 2Clubs.jpg
-  │   ├── 2Diamonds.jpg
-  │   ├── 2Hearts.jpg
-  │   ├── 2Spades.jpg
-  │   ├── 3Clubs.jpg
-  │   ├── 3Diamonds.jpg
-  │   ├── 3Hearts.jpg
-  │   ├── 3Spades.jpg
-  │   ├── 4Clubs.jpg
-  │   ├── 4Diamonds.jpg
-  │   ├── 4Hearts.jpg
-  │   ├── 4Spades.jpg
-  │   ├── 5Clubs.jpg
-  │   ├── 5Diamonds.jpg
-  │   ├── 5Hearts.jpg
-  │   ├── 5Spades.jpg
-  │   ├── 6Clubs.jpg
-  │   ├── 6Diamonds.jpg
-  │   ├── 6Hearts.jpg
-  │   ├── 6Spades.jpg
-  │   ├── 7Clubs.jpg
-  │   ├── 7Diamonds.jpg
-  │   ├── 7Hearts.jpg
-  │   ├── 7Spades.jpg
-  │   ├── 8Clubs.jpg
-  │   ├── 8Diamonds.jpg
-  │   ├── 8Hearts.jpg
-  │   ├── 8Spades.jpg
-  │   ├── 9Clubs.jpg
-  │   ├── 9Diamonds.jpg
-  │   ├── 9Hearts.jpg
-  │   ├── 9Spades.jpg
-  │   ├── AceClubs.jpg
-  │   ├── AceDiamonds.jpg
-  │   ├── AceHearts.jpg
-  │   ├── AceSpades.jpg
-  │   ├── JackClubs.jpg
-  │   ├── JackDiamonds.jpg
-  │   ├── JackHearts.jpg
-  │   ├── JackSpades.jpg
-  │   ├── KingClubs.jpg
-  │   ├── KingDiamonds.jpg
-  │   ├── KingHearts.jpg
-  │   ├── KingSpades.jpg
-  │   ├── QueenClubs.jpg
-  │   ├── QueenDiamonds.jpg
-  │   ├── QueenHearts.jpg
-  │   ├── QueenSpades.jpg
-  ├── README.md
-  ```
-
-## Installation
-* Make sure all the dependencies are installed
-* Download the files
-  * Option 1: 🍴 Fork this repository!
-  * Option 2: 🧪 Clone the repository to your local machine!
-* Open *BlackJack.py* in Python IDLE or another IDE
-* Run *BlackJack.py* and start playing BlackJack! 🛠
-
-
-## Features
-* Includes an instructions page on the basics of BlackJack.
-* Includes interactive buttons and music to lighten mood.
-* Involves an automated dealer that plays like a person.
-* A minimalist UI for an elegant feel to the game.
-* Allows for continuous playing for as long as desired.
-
 
 ## Screenshots
 | Home    | Instructions    |
