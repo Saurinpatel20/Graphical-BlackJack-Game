@@ -7,10 +7,6 @@ This is a python project for the development of a minimalist graphical BlackJack
 - [Dependencies](#dependencies)
 - [Contact](#contact)
 
-## Languages
-- Python 3.9.6
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-
 ## Dependencies
 - [Python 3.0 or later](https://www.python.org/downloads/) 
 - [Pygame 1.9.6](https://pypi.org/project/pygame/1.9.6/)
